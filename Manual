@@ -1,0 +1,16 @@
+This is a manual that is going to help you run the application.
+Steps
+1) start mongo server
+    1.1 in comand line put this : mongod (is the enviroment word for run server) if u don't have a enviroment word for mongodb go
+    to the installation folder ("C:\Program Files\MongoDB\Server\3.4\bin") and search for mongod.exe typ
+    1.2 Start client comand line go to installation folder ("C:\Program Files\MongoDB\Server\3.4\bin") and run mongo.exe, ore if you have a enviroment 
+    word typet in comand line.
+2) Start express server 
+    1.1 Go in to folder application and search for the server.js is the file which contains  the express server configuration.
+    You can run it in tow ways  first = node server.js or node server , second = nodemon (you nead nodemon, you can install it npm install -g nodemon)
+3) start node.js 
+    1.1 Navigate in to folder aplication and go for folder which contains the angular files in this case is client inside type in the comand line npm start.
+
+
+    !!!Congratulations you're now running the application!!!
+    
